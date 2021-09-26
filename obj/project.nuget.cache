@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gjgE8yKLmmfZNYCunHzD9zpSkUJV2kTJh5djjQvdLmk9uuon9XSHQqwUI47d7wf3VXNLZhJ8FgEb0PGW5gdVUA==",
+  "dgSpecHash": "Z/UHBY4LVlEdHuUUDSCWY/WOfr3rwHi+zZcUQOq65D/wBxLlFjn4g3bV5pysjoCv4VdYScLpez0qFNdwBzfZeA==",
   "success": true,
-  "projectFilePath": "C:\\Akshay\\Personal\\Projects\\Publico\\react-dotnet-chat-service.csproj",
+  "projectFilePath": "C:\\Akshay\\Personal\\Projects\\react-dotnet-chat-service\\ChatApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akshay.raut\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.18\\microsoft.aspnetcore.cryptography.internal.3.1.18.nupkg.sha512",
     "C:\\Users\\akshay.raut\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.18\\microsoft.aspnetcore.cryptography.keyderivation.3.1.18.nupkg.sha512",

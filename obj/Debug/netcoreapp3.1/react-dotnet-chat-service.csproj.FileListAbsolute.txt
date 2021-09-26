@@ -91,3 +91,13 @@ C:\Akshay\Personal\Projects\Publico\obj\Debug\netcoreapp3.1\staticwebassets\reac
 C:\Akshay\Personal\Projects\Publico\obj\Debug\netcoreapp3.1\react-dotnet-chat-service.dll
 C:\Akshay\Personal\Projects\Publico\obj\Debug\netcoreapp3.1\react-dotnet-chat-service.pdb
 C:\Akshay\Personal\Projects\Publico\obj\Debug\netcoreapp3.1\react-dotnet-chat-service.genruntimeconfig.cache
+C:\Akshay\Personal\Projects\react-dotnet-chat-service\obj\Debug\netcoreapp3.1\react-dotnet-chat-service.csprojAssemblyReference.cache
+C:\Akshay\Personal\Projects\react-dotnet-chat-service\obj\Debug\netcoreapp3.1\react-dotnet-chat-service.AssemblyInfoInputs.cache
+C:\Akshay\Personal\Projects\react-dotnet-chat-service\obj\Debug\netcoreapp3.1\react-dotnet-chat-service.AssemblyInfo.cs
+C:\Akshay\Personal\Projects\react-dotnet-chat-service\obj\Debug\netcoreapp3.1\react-dotnet-chat-service.csproj.CoreCompileInputs.cache
+C:\Akshay\Personal\Projects\react-dotnet-chat-service\obj\Debug\netcoreapp3.1\react-dotnet-chat-service.MvcApplicationPartsAssemblyInfo.cs
+C:\Akshay\Personal\Projects\react-dotnet-chat-service\obj\Debug\netcoreapp3.1\react-dotnet-chat-service.MvcApplicationPartsAssemblyInfo.cache
+C:\Akshay\Personal\Projects\react-dotnet-chat-service\obj\Debug\netcoreapp3.1\react-dotnet-chat-service.RazorAssemblyInfo.cache
+C:\Akshay\Personal\Projects\react-dotnet-chat-service\obj\Debug\netcoreapp3.1\react-dotnet-chat-service.RazorAssemblyInfo.cs
+C:\Akshay\Personal\Projects\react-dotnet-chat-service\obj\Debug\netcoreapp3.1\react-dotnet-chat-service.dll
+C:\Akshay\Personal\Projects\react-dotnet-chat-service\obj\Debug\netcoreapp3.1\react-dotnet-chat-service.pdb

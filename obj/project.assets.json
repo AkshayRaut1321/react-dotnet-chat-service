@@ -5664,11 +5664,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Akshay\\Personal\\Projects\\Publico\\react-dotnet-chat-service.csproj",
-      "projectName": "react-dotnet-chat-service",
-      "projectPath": "C:\\Akshay\\Personal\\Projects\\Publico\\react-dotnet-chat-service.csproj",
+      "projectUniqueName": "C:\\Akshay\\Personal\\Projects\\react-dotnet-chat-service\\ChatApp.csproj",
+      "projectName": "ChatApp",
+      "projectPath": "C:\\Akshay\\Personal\\Projects\\react-dotnet-chat-service\\ChatApp.csproj",
       "packagesPath": "C:\\Users\\akshay.raut\\.nuget\\packages\\",
-      "outputPath": "C:\\Akshay\\Personal\\Projects\\Publico\\obj\\",
+      "outputPath": "C:\\Akshay\\Personal\\Projects\\react-dotnet-chat-service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
