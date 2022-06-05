@@ -83,3 +83,4 @@ C:\Akshay\Personal\Projects\react-dotnet-chat-service\obj\Debug\netcoreapp3.1\st
 C:\Akshay\Personal\Projects\react-dotnet-chat-service\obj\Debug\netcoreapp3.1\ChatApp.dll
 C:\Akshay\Personal\Projects\react-dotnet-chat-service\obj\Debug\netcoreapp3.1\ChatApp.pdb
 C:\Akshay\Personal\Projects\react-dotnet-chat-service\obj\Debug\netcoreapp3.1\ChatApp.genruntimeconfig.cache
+C:\Akshay\Personal\Projects\react-dotnet-chat-service\obj\Debug\netcoreapp3.1\ChatApp.csprojAssemblyReference.cache
